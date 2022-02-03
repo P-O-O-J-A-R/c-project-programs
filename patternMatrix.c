@@ -6,10 +6,10 @@ void main()
 {
     int m,n,i,j;
     
-    printf("add size of matrix\n") ;
-    printf("number of rows = ") ;
+    printf("Add size of matrix\n") ;
+    printf("Number of rows = ") ;
     scanf("%d",&m) ;
-    printf("number of columns = ") ;
+    printf("Number of columns = ") ;
     scanf("%d",&n) ;
     char arr[m][n] ;
     int size = m * n ;
